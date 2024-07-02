@@ -1,0 +1,43 @@
+.quote{
+    background-color: #7edaff;
+    height: 170px;
+    
+}
+.about-section {
+    background-color: #ffe6ac; 
+    padding: 20px; 
+    display: flex; 
+}
+
+.about-section img {
+    margin-right: 20px;
+    max-width: 400%; 
+    max-height: 400px; 
+    margin-top: 40px;
+}
+
+.about-section h2 {
+    color: blueviolet;
+    font-weight: bold; 
+    font-size: 54px;
+    margin-bottom: 10px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.about-section p {
+    font-size: 18px; 
+    margin: 0; 
+    font-family: 'Open Sans', sans-serif;
+
+}
+.quote{
+    text-align: center;
+    padding: 9px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    color:#1042a8;
+}
+footer{
+    padding: 20px;
+}
